@@ -1,5 +1,6 @@
 #Project Details : for Data Science with Python Nano Degree
 #Developer : Yugal Kishore
+#Program Details : Analyzing bikeshare data for 3 cities
 
 import time
 import pandas as pd
