@@ -15,6 +15,9 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
+### Change Log
+1. Added comment in the program for Project Detail
+
 ### Credits
 1. Intro to Python® for Computer Science and Data Science Learning to Program with AI, Big Data and the Cloud by Paul Deitel & Harvey Deitel
 2. Python Data Science Handbook ESSENTIAL TOOLS FOR WORKING WITH DATA by Jake VanderPlas
