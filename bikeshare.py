@@ -1,3 +1,5 @@
+
+#********************************Program Begins**************************
 import time
 import pandas as pd
 import numpy as np
@@ -366,7 +368,7 @@ def print_processing_time(start_time):
 
 
 def display_data(df):
-                                                                            
+
     """Displays 5 rows of data from the csv file for the selected city.
     """
     VALID_RESPONSES = ['yes', 'no']
