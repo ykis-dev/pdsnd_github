@@ -19,6 +19,7 @@ washington.csv
 1. Added comment in the program for Project Detail
 2. Added Developer Details
 3. Added Program Details
+4. Added Date of first commit
 
 ### Credits
 1. Intro to Python® for Computer Science and Data Science Learning to Program with AI, Big Data and the Cloud by Paul Deitel & Harvey Deitel
